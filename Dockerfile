@@ -1,8 +1,8 @@
 FROM node:latest
 
-LABEL maintaiiner = "Chase Spencer <chase.spencer19@gmail.com>"
+LABEL maintainer = "Chase Spencer <chase.spencer19@gmail.com>"
 LABEL description = "This is a simple docker file to demonstate abilities"
-LABEL cohort = "cohort-16"
+LABEL cohort = "cohort-19"
 
 WORKDIR /usr/src/app
 
